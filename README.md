@@ -1,6 +1,4 @@
-# exfinalvisaocomp
-Exercício Final Visão Computacional
-
+# Exercício Final Visão Computacional
 
 Como exercício final da cadeira de Visão Computacional na Pós Graduação de Inteligência Artificial 2018 - Universidade Positivo, foi desenvolvido pela equipe abaixo:
 
